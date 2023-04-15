@@ -1,11 +1,11 @@
-# 💫 About Me:
+# 💫 Info kasa:
 🫡 Tällä hetkellä en ole aktiivinen täällä.
 
 
-## 🌐 Socials:
+## 🌐 Mediat:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Goldens#8213) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Goldenssi) 
 
-# 💻 Tech Stack:
+# 💻 Setit:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Goldenssi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
